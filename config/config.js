@@ -2,8 +2,8 @@ var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
     name: "林森",
     sex: "男",
-    age: "19",
-    phone: "19872222222",
+    age: "25",
+    phone: "13637776349",
     email: "happysnaker@foxmail.com this`s true",
     address: "现居浙江省义乌市",
     qq: "11",
@@ -150,4 +150,5 @@ var config = {
     ]
 
 }
+
 
